@@ -1,3 +1,3 @@
-# YL Toolkit v2.0.0
+# YL Toolkit v3.0.0
 
-AdSense-ready homepage structure. Four-calculator platform direction, cleaner UI, ad placeholder, improved About/FAQ/Updates/Contact pages.
+Apple × Notion × Toss style homepage refresh. Four-calculator structure, ad placeholder, and AdSense-ready content sections.
