@@ -1,3 +1,3 @@
-# YL Toolkit v1.4.2
+# YL Toolkit v2.0.0
 
-Homepage UI refresh. Simplified homepage around calculator list and modernized card layout.
+AdSense-ready homepage structure. Four-calculator platform direction, cleaner UI, ad placeholder, improved About/FAQ/Updates/Contact pages.
