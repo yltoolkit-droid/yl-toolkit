@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://youngliving-rp.netlify.app/sitemap.xml
