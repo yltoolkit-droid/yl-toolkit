@@ -1,3 +1,3 @@
-# YL Toolkit v3.0.0
+# YL Toolkit v3.1.0
 
-Apple × Notion × Toss style homepage refresh. Four-calculator structure, ad placeholder, and AdSense-ready content sections.
+RP calculator result label update. Adds recommendation badges to result combinations while keeping the calculation logic unchanged.
