@@ -1,3 +1,3 @@
-# YL Toolkit v3.4.0
+# YL Toolkit v4.1.0
 
-Final AdSense-ready structure: RP calculator, essential oil dilution calculator, and cosmetic cost/selling price calculator. Removed pending cards and ad placeholders.
+Final stabilization before AdSense application. Unified calculator UI, result cards, inputs, buttons, and guide notes while keeping all existing calculator logic unchanged.
