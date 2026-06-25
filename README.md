@@ -1,3 +1,3 @@
-# YL Toolkit v3.3.0
+# YL Toolkit v3.4.0
 
-Added cosmetic cost calculator with material costs, packaging costs, yield count, target margin, and suggested selling price.
+Final AdSense-ready structure: RP calculator, essential oil dilution calculator, and cosmetic cost/selling price calculator. Removed pending cards and ad placeholders.
