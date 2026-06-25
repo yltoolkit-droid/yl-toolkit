@@ -1,5 +1,3 @@
-# YL Toolkit v1.3.1
+# YL Toolkit v1.4.0
 
-수정사항: RP 빠른 버튼에서 41.05 RP 제거, 80 RP 추가.
-
-Netlify 기존 youngliving-rp 프로젝트에 ZIP 그대로 업로드하세요.
+Homepage redesign and service structure update.
