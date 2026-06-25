@@ -1,5 +1,3 @@
-# YL Toolkit v1.4.1
+# YL Toolkit v1.4.2
 
-Homepage redesign and service structure update.
-
-- v1.4.1: Removed the 'Why YL Toolkit?' section from the homepage.
+Homepage UI refresh. Simplified homepage around calculator list and modernized card layout.
