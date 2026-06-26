@@ -1,3 +1,3 @@
-# YL Toolkit v4.1.0
+# YL Toolkit v4.2.0
 
-Final stabilization before AdSense application. Unified calculator UI, result cards, inputs, buttons, and guide notes while keeping all existing calculator logic unchanged.
+Added Google Analytics GA4 tracking (G-E41WLH114Y), SEO meta tags, favicon, Open Graph image, robots.txt, and sitemap.xml finalization for AdSense preparation.
